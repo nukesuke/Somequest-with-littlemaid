@@ -1,4 +1,4 @@
-# Somequest-with-littlemaid
+# Somequest-with-littlemaid(1.12.2)
 Complete the quest with the littlemaid! Currently in Japanese only.
 メイドと一緒にクエストをクリアしましょう。現在日本語のみです。
 
